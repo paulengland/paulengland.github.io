@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "First Post"
 date:   2024-07-10 15:32:48 -0700
-categories: jekyll update
+categories: general
 ---
 This is the default contents of the Jekyll howto post (this line is added by paul)
 
